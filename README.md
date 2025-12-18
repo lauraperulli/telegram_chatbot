@@ -5,7 +5,7 @@ Benvenuto, se sei qui è perchè ti interessa consultare il progetto che ho real
 
 # 🚀 Di cosa si tratta?
 
-🤖 **CHATBOT TELEGRAM** dei crimini a Chicago:
+🤖 **CHATBOT TELEGRAM** personalizzato:
 - Realizzazione di un progetto Python incentrato sull'implementazione e l'addestramento di un modello di AI con
 
 # 🎯 Obiettivo del progetto:
