@@ -62,3 +62,6 @@ L'architettura del progetto è organizzata in modo modulare per separare la logi
 3. Installa le librerie:
    ```bash
    pip install -r requirements.txt
+4. Avvia il bot
+   ```bash
+   python main.py
