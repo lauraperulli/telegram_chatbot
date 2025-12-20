@@ -1,7 +1,7 @@
 # 🎬 Film & Series Bot: chatbot telegram con RAG & LangChain
 
 # 🤝 Presentazione
-Ciao, sono LAURA PERULLI | **BSc in "Statistics e Big Data"**.
+Ciao, sono LAURA PERULLI | **BSc in "Statistics and Big Data"**.
 
 Benvenuto nel repository di uno dei miei progetti: un assistente AI avanzato per Telegram, progettato per agire come un esperto critico del mondo cinematografico e delle serie TV.
 
