@@ -30,12 +30,12 @@ Benvenuto nel repository di uno dei miei progetti: un assistente AI avanzato per
 
 L'architettura del progetto è organizzata in modo modulare per separare la logica di business dalla gestione dei dati:
 
-* **File di Configurazione e Avvio:**
+* **⚠️ File di Configurazione e Avvio:**
     * `main.py`: Entry point dell'applicazione che coordina i diversi moduli.
     * `config.py`: Gestione centralizzata di variabili d'ambiente, costanti e setup tecnico.
     * `prompts.py`: Ingegneria dei prompt e definizione della personalità del bot.
     * `requirements.txt`: Elenco delle dipendenze Python (LangChain, OpenAI, ecc.).
-    * `.env.example`: Template per la configurazione sicura delle chiavi API.
+     * `.env.example`: Template per la configurazione sicura delle chiavi API. Fornito come modello per configurare correttamente le variabili d'ambiente necessarie all'esecuzione del progetto senza esporre dati reali.
     * `.gitignore`: Esclusione di file sensibili, cache e database locali.
 
 * **Cartella `src/` (Core Logic):**
@@ -43,7 +43,6 @@ L'architettura del progetto è organizzata in modo modulare per separare la logi
     * 📂 **`rag/`**: Motore di ricerca semantica (Processing documenti, Vector Store e Retrieval).
     * 📂 **`telegram/`**: Gestione dell'interfaccia utente (Handler dei messaggi, Setup e Sicurezza).
     * 📂 **`utils/`**: Utility di supporto (Logging, Memoria intelligente e Client API condivisi).
-
 
 ---
 
